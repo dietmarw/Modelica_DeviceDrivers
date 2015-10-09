@@ -68,6 +68,7 @@ This Modelica package is free software and the use is completely at your own ris
 it can be redistributed and/or modified under the terms of the [Modelica License 2](https://modelica.org/licenses/ModelicaLicense2).
 
 ## Development and contribution
+
 Main developers:
 * [Bernhard Thiele](https://github.com/bernhard-thiele), release management and the Linux specific code
 * [Tobias Bellmann](https://github.com/tbellmann), most of the initial MS Windows specific code
